@@ -1,0 +1,42 @@
+# Module 7 Challenge (SQL)
+
+
+## Overview of Project
+There are two parts to this assignments: 
+determine the number of retiring employees per title, 
+and identify employees who are eligible to participate in a mentorship program. 
+Then, you’ll write a report that summarizes your analysis and helps prepare Bobby’s manager
+
+##Deliverable 1: The Number of Retiring Employees by Title
+
+The employee information has been combined and sorted to identify the number of employees 
+of employees that are eligibe to retire.  Eligibility to retire is based on the employees' hire date. 
+Next the list of employees that are eligible to retire was then sorted and group to identify the name and 
+number of titles for the retiring employees.  
+
+![This is a Screen Shot of the SQL code and the output]
+ (https://github.com/jbpitman/stock-analysis/blob/main/AllAnalysisOriginal_2017ScreenShot.png)
+
+##Deliverable 2: The Employees Eligible for the Mentorship Program
+The employees data was then analyzed to identify current employees that would be eligible for a mentorship program. 
+![This is a Screen Shot of the SQL code and the output]
+ (https://github.com/jbpitman/stock-analysis/blob/main/AllAnalysisOriginal_2017ScreenShot.png)
+
+
+
+A written report on the employee database analysis (README.md)
+At the time of this data analysis Pewlett-Hackard employed approximately 300,000 individuals. 
+Through analyzing the employee, department, and  title information, a total of 72,458 employees were identifed 
+eligible to retire which accounts for approxiamately 25% of the total workforce.
+In order lessen the effect of the “silver tsunami” as many current employees reach retirement age, it would be
+be beneficial to start a mentorship program to ensure continuity and transfer of institutional
+knowledge. If the company plans to offer the mentorship program to those born between January 1, 1965 and 
+December 31,1965, a total of 1,549 current employees would be elgible to participate in such a program. 
+There are two titles that will be significantly affected by the silver tsunami: 
+1) Senior Engineer (25,916 retiring indiviudals)) and 2) Senior Staff (24,926 retiring individuals). 
+an additional query is needed. For both titles,  it will be helpful to obtain more information about this title in order to determine
+how many current individuals are available to fill the potential vacancies  tional queries to d
+How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+Are there enough qualified, retirement-ready employees in the departments to mentor the 
+next generation of Pewlett Hackard employees?
+##
